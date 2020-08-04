@@ -9,12 +9,13 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>Hello, I'm <strong>Srishti </strong>. I am a recent graduate of the University of Victoria with a major in Computer Science
-           and a minor in Business. You can contact me on <a href= "https://www.linkedin.com/in/srishti98/">LinkedIn.</a></p>
+        <p>Hello, I'm <strong>Srishti </strong>. I am a recent graduate of the University of Victoria
+         with a major in Computer Science and a minor in Business. I have a passion for UX/UI design, problem solving and systems
+         architecture.</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+
         </p>
+        You can contact me on <a href= "https://www.linkedin.com/in/srishti98/">LinkedIn.</a>
       </section>
     </Layout>
   )
