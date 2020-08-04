@@ -18,7 +18,7 @@ export default function Home() {
            but I also have an interest in business, philosophy and climate change.</p>
         <p>
           Feel free to contact me for any reason on <a href= "https://www.linkedin.com/in/srishti98/">LinkedIn </a> or
-         <a href="mailto:singhalsrishti98@gmail.com"> Email </a>
+         <a href="mailto:singhalsrishti98@gmail.com"> Email. </a> I love connecting with people, especially with the fellow women who code.
         </p>
       </section>
     </Layout>
